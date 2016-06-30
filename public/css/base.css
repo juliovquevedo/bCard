@@ -8,6 +8,8 @@ body {
 	background: white;
 	max-width: 50%;
 	box-shadow: 5px 5px rgba(0,0,0,0.1);
+	margin: auto;
+	width: 50%;
 }
 
 .quote {

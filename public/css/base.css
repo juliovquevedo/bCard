@@ -24,3 +24,11 @@ img {
 	max-width: 150px;
 	border-radius: 50%;
 }
+
+a:visted, a:link{
+	color: #ecf0f1;
+}
+
+a:hover{
+	color: #2980b9;
+}
